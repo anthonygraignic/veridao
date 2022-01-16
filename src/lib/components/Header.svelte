@@ -1,8 +1,4 @@
 <script>
-  import { page } from "$app/stores";
-  // import { connect, connected } from '$lib/modules/wallet';
-
-  $: segment = $page.url.pathname;
 </script>
 
 <div class="header__container">
