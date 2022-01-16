@@ -21,7 +21,7 @@
         target="_blank">Sergej</a
       >,
       <a
-        href="https://twitter.com/veri_dao"
+        href="https://twitter.com/heyrobinkunz"
         rel="external noopener"
         target="_blank">Robin</a
       >,
