@@ -100,7 +100,7 @@
   }
 
   .number {
-    @apply text-primary;
+    /* @apply text-primary; */
   }
 
   .actions {

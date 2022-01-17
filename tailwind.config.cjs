@@ -3,7 +3,8 @@ const config = {
   theme: {
     extend: {
       colors: {
-        "primary": "#0848F7"
+        "primary": "#0848F7",
+        "centralise": "#009aec" 
       },
     },
   },
